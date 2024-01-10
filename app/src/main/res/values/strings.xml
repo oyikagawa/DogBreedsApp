@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DogBreedsApp</string>
+
+    <string name="data_loading">Data loading in progress!</string>
+    <string name="no_data">"There is no any data yet!"</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="delete">Delete</string>
+</resources>
